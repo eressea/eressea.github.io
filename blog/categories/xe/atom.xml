@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Xe, | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Xe, | Xontormia Express]]></title>
   <link href="http://eressea.github.io/blog/categories/xe/atom.xml" rel="self"/>
   <link href="http://eressea.github.io/"/>
-  <updated>2015-04-16T09:43:56+02:00</updated>
+  <updated>2015-04-16T22:20:28+02:00</updated>
   <id>http://eressea.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Enno Rehling]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
