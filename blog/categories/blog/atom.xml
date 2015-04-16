@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | My Octopress Blog]]></title>
   <link href="http://eressea.github.io/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://eressea.github.io/"/>
-  <updated>2015-04-16T02:24:14+02:00</updated>
+  <updated>2015-04-16T09:43:56+02:00</updated>
   <id>http://eressea.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -24,8 +24,9 @@
 
 
 <p>Eine Ankündigung mit Anleitung zur Einreichung neuer Artikel kommt
-demnächst.
-<img src="http://placekitten.com/400/50/" alt="Kitten" /></p>
+demnächst.</p>
+
+<p><img src="http://placekitten.com/g/200/300" alt="Kitten" /></p>
 ]]></content>
   </entry>
   
