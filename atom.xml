@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://eressea.github.io/atom.xml" rel="self"/>
+  <link href="http://eressea.github.io/"/>
+  <updated>2015-04-16T02:24:14+02:00</updated>
+  <id>http://eressea.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Willkommen Auf Den Seiten Des Neuen Xontormia Express]]></title>
+    <link href="http://eressea.github.io/blog/2015/04/15/welcome-to-the-new-xontormia-express/"/>
+    <updated>2015-04-15T15:37:29+02:00</updated>
+    <id>http://eressea.github.io/blog/2015/04/15/welcome-to-the-new-xontormia-express</id>
+    <content type="html"><![CDATA[<p>Der XE ist wieder da!</p>
+
+<!-- more -->
+
+
+<p>Eine Ankündigung mit Anleitung zur Einreichung neuer Artikel kommt
+demnächst.
+<img src="http://placekitten.com/400/50/" alt="Kitten" /></p>
+]]></content>
+  </entry>
+  
+</feed>
